@@ -3,10 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <ProduceAssemblyReference>true</ProduceAssemblyReference>
+<<<<<<< HEAD
     <Authors>Diogo Valente</Authors>
     <Company />
     <Description>Simple calculator</Description>
     <Version>1.0.1</Version>
+=======
+>>>>>>> master
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
